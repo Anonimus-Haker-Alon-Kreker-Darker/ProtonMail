@@ -1,2 +1,2 @@
 # ProtonMail
-https://protonmail.com/
+https://protonmail.com/tor
